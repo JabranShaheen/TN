@@ -1,0 +1,8 @@
+D:\ThinkingNumbers\TN.BLL\bin\Debug\netcoreapp3.1\TN.BLL.deps.json
+D:\ThinkingNumbers\TN.BLL\bin\Debug\netcoreapp3.1\TN.BLL.dll
+D:\ThinkingNumbers\TN.BLL\bin\Debug\netcoreapp3.1\TN.BLL.pdb
+D:\ThinkingNumbers\TN.BLL\obj\Debug\netcoreapp3.1\TN.BLL.csprojAssemblyReference.cache
+D:\ThinkingNumbers\TN.BLL\obj\Debug\netcoreapp3.1\TN.BLL.AssemblyInfoInputs.cache
+D:\ThinkingNumbers\TN.BLL\obj\Debug\netcoreapp3.1\TN.BLL.AssemblyInfo.cs
+D:\ThinkingNumbers\TN.BLL\obj\Debug\netcoreapp3.1\TN.BLL.dll
+D:\ThinkingNumbers\TN.BLL\obj\Debug\netcoreapp3.1\TN.BLL.pdb
