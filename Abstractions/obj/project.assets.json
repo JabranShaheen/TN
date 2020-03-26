@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ThinkingNumbers\\Abstractions\\TN.Abstractions.csproj",
+      "projectUniqueName": "C:\\Users\\Jabra\\Desktop\\TN\\Abstractions\\TN.Abstractions.csproj",
       "projectName": "TN.Abstractions",
-      "projectPath": "D:\\ThinkingNumbers\\Abstractions\\TN.Abstractions.csproj",
+      "projectPath": "C:\\Users\\Jabra\\Desktop\\TN\\Abstractions\\TN.Abstractions.csproj",
       "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
-      "outputPath": "D:\\ThinkingNumbers\\Abstractions\\obj\\",
+      "outputPath": "C:\\Users\\Jabra\\Desktop\\TN\\Abstractions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",

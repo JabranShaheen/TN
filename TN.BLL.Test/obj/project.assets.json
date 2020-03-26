@@ -5498,11 +5498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ThinkingNumbers\\TN.BLL.Test\\TN.BLL.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Jabra\\Desktop\\TN\\TN.BLL.Test\\TN.BLL.Test.csproj",
       "projectName": "TN.BLL.Test",
-      "projectPath": "D:\\ThinkingNumbers\\TN.BLL.Test\\TN.BLL.Test.csproj",
+      "projectPath": "C:\\Users\\Jabra\\Desktop\\TN\\TN.BLL.Test\\TN.BLL.Test.csproj",
       "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
-      "outputPath": "D:\\ThinkingNumbers\\TN.BLL.Test\\obj\\",
+      "outputPath": "C:\\Users\\Jabra\\Desktop\\TN\\TN.BLL.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5518,8 +5518,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\ThinkingNumbers\\TN.BLL\\TN.BLL.csproj": {
-              "projectPath": "D:\\ThinkingNumbers\\TN.BLL\\TN.BLL.csproj"
+            "C:\\Users\\Jabra\\Desktop\\TN\\TN.BLL\\TN.BLL.csproj": {
+              "projectPath": "C:\\Users\\Jabra\\Desktop\\TN\\TN.BLL\\TN.BLL.csproj"
             }
           }
         }
