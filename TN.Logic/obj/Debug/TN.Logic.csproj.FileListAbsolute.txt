@@ -1,0 +1,14 @@
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\obj\Debug\TN.Logic.csprojAssemblyReference.cache
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\bin\Debug\TN.Logic.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\bin\Debug\TN.Logic.pdb
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\bin\Debug\TN.Abstractions.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\bin\Debug\Unity.Abstractions.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\bin\Debug\Unity.Container.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\bin\Debug\TN.Abstractions.pdb
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\bin\Debug\Unity.Container.pdb
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\obj\Debug\TN.Logic.csproj.CopyComplete
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\obj\Debug\TN.Logic.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\TN.Logic\obj\Debug\TN.Logic.pdb

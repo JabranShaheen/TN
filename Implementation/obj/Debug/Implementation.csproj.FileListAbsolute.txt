@@ -1,0 +1,90 @@
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\obj\Debug\Implementation.csprojAssemblyReference.cache
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Implementation.dll
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Implementation.pdb
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Abstractions.dll
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\CommonServiceLocator.dll
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Abstractions.dll
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Configuration.dll
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Container.dll
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Interception.dll
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Abstractions.pdb
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\CommonServiceLocator.pdb
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Abstractions.pdb
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Configuration.pdb
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Container.pdb
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Interception.pdb
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\obj\Debug\Implementation.csproj.CopyComplete
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\obj\Debug\Implementation.dll
+C:\Users\shahe\OneDrive\Desktop\ThinkingNumbers\ThinkingNumbers_Logic\obj\Debug\Implementation.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Implementation.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Implementation.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Abstractions.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\CommonServiceLocator.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Newtonsoft.Json.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Abstractions.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Configuration.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Container.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Interception.Configuration.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Interception.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.RegistrationByConvention.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.ServiceLocation.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Abstractions.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\CommonServiceLocator.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Newtonsoft.Json.xml
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Abstractions.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Configuration.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Container.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Interception.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.Interception.Configuration.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.RegistrationByConvention.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\bin\Debug\Unity.ServiceLocation.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\obj\Debug\Implementation.csprojAssemblyReference.cache
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\obj\Debug\Implementation.csproj.CopyComplete
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\obj\Debug\Implementation.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\ThinkingNumbers_Logic\obj\Debug\Implementation.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Implementation.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Implementation.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Abstractions.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\CommonServiceLocator.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Newtonsoft.Json.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.Abstractions.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.Configuration.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.Container.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.Interception.Configuration.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.Interception.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.RegistrationByConvention.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.ServiceLocation.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Abstractions.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\CommonServiceLocator.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Newtonsoft.Json.xml
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.Abstractions.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.Configuration.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.Container.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.Interception.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.Interception.Configuration.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.RegistrationByConvention.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\bin\Debug\Unity.ServiceLocation.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\obj\Debug\Implementation.csprojAssemblyReference.cache
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\obj\Debug\Implementation.csproj.CopyComplete
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\obj\Debug\Implementation.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\Implementation\obj\Debug\Implementation.pdb

@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestApplication/1.0.0": {
+        "dependencies": {
+          "TN.BLL": "1.0.0",
+          "Unity": "5.11.4"
+        },
+        "runtime": {
+          "TestApplication.dll": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {},
+      "Unity/5.11.4": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Unity.Abstractions.dll": {
+            "assemblyVersion": "5.11.4.0",
+            "fileVersion": "5.11.4.0"
+          },
+          "lib/netcoreapp2.0/Unity.Container.dll": {
+            "assemblyVersion": "5.11.5.0",
+            "fileVersion": "5.11.5.0"
+          }
+        }
+      },
+      "TN.Abstractions/1.0.0": {
+        "runtime": {
+          "TN.Abstractions.dll": {}
+        }
+      },
+      "TN.BLL/1.0.0": {
+        "dependencies": {
+          "TN.Abstractions": "1.0.0",
+          "Unity": "5.11.4"
+        },
+        "runtime": {
+          "TN.BLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    },
+    "Unity/5.11.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-92605bIUMalRwCqyGX5uno6MEyyiVIt5P5zPxJYFs9iMe8Ktn9liSGXHNeN60x1iuyNdx/RlqwCuFHL7a6M+ZA==",
+      "path": "unity/5.11.4",
+      "hashPath": "unity.5.11.4.nupkg.sha512"
+    },
+    "TN.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TN.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

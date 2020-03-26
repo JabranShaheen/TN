@@ -1,0 +1,90 @@
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.csprojAssemblyReference.cache
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.csproj.CoreCompileInputs.cache
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Tests.dll
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Tests.pdb
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Abstractions.dll
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Implementation.dll
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Abstractions.pdb
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Implementation.pdb
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.csproj.CopyComplete
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.dll
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.pdb
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\Castle.Core.dll
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\Moq.dll
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\System.ValueTuple.dll
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\Castle.Core.xml
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\Moq.pdb
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\Moq.xml
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\UnitTestProject1\bin\Debug\System.ValueTuple.xml
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Tests.dll
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Tests.pdb
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\Castle.Core.dll
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\Moq.dll
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\System.ValueTuple.dll
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Abstractions.dll
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Implementation.dll
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Abstractions.pdb
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Implementation.pdb
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\Castle.Core.xml
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\Moq.pdb
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\Moq.xml
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\bin\Debug\System.ValueTuple.xml
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.csprojAssemblyReference.cache
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.csproj.CoreCompileInputs.cache
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.csproj.CopyComplete
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.dll
+D:\Thinking Numbers backup\Current Business Logic code\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.pdb
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.csprojAssemblyReference.cache
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Tests.dll.config
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Tests.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Tests.pdb
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Castle.Core.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Moq.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\System.ValueTuple.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Abstractions.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Logic.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Unity.Container.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Unity.Abstractions.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Abstractions.pdb
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\TN.Logic.pdb
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Castle.Core.xml
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Moq.pdb
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Moq.xml
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\System.ValueTuple.xml
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Unity.Container.pdb
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.csproj.CopyComplete
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.dll
+C:\Users\Jabra\Desktop\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.pdb
+D:\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.csprojAssemblyReference.cache
+D:\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.dll
+D:\ThinkingNumbers\UnitTestProject1\obj\Debug\TN.Tests.pdb

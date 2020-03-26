@@ -1,0 +1,16 @@
+D:\ThinkingNumbers\TN.BLL\bin\Debug\netcoreapp3.1\TN.Abstractions.deps.json
+D:\ThinkingNumbers\TN.BLL\bin\Debug\netcoreapp3.1\TN.Abstractions.dll
+D:\ThinkingNumbers\TN.BLL\bin\Debug\netcoreapp3.1\TN.Abstractions.pdb
+D:\ThinkingNumbers\TN.BLL\obj\Debug\netcoreapp3.1\TN.Abstractions.AssemblyInfoInputs.cache
+D:\ThinkingNumbers\TN.BLL\obj\Debug\netcoreapp3.1\TN.Abstractions.AssemblyInfo.cs
+D:\ThinkingNumbers\TN.BLL\obj\Debug\netcoreapp3.1\TN.Abstractions.dll
+D:\ThinkingNumbers\TN.BLL\obj\Debug\netcoreapp3.1\TN.Abstractions.pdb
+D:\ThinkingNumbers\Abstractions\bin\Debug\netcoreapp3.1\TN.Abstractions.deps.json
+D:\ThinkingNumbers\Abstractions\bin\Debug\netcoreapp3.1\TN.Abstractions.dll
+D:\ThinkingNumbers\Abstractions\bin\Debug\netcoreapp3.1\TN.Abstractions.pdb
+D:\ThinkingNumbers\Abstractions\obj\Debug\netcoreapp3.1\TN.Abstractions.AssemblyInfoInputs.cache
+D:\ThinkingNumbers\Abstractions\obj\Debug\netcoreapp3.1\TN.Abstractions.AssemblyInfo.cs
+D:\ThinkingNumbers\Abstractions\obj\Debug\netcoreapp3.1\TN.Abstractions.dll
+D:\ThinkingNumbers\Abstractions\obj\Debug\netcoreapp3.1\TN.Abstractions.pdb
+D:\ThinkingNumbers\Abstractions\obj\Debug\netcoreapp3.1\TN.Abstractions.csprojAssemblyReference.cache
+D:\ThinkingNumbers\Abstractions\obj\Debug\netcoreapp3.1\TN.Abstractions.csproj.CoreCompileInputs.cache

@@ -1,0 +1,22 @@
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\TN.Test.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\TN.Test.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\obj\Debug\TN.Test.csproj.CoreCompileInputs.cache
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\obj\Debug\TN.Test.csproj.CopyComplete
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\obj\Debug\TN.Test.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\obj\Debug\TN.Test.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\Implementation.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\Abstractions.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\Unity.Abstractions.dll
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\Implementation.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\Abstractions.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\bin\Debug\Unity.Abstractions.pdb
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\TN.Test\obj\Debug\TN.Test.csprojAssemblyReference.cache
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\TN.Test\obj\Debug\TN.Test.csprojAssemblyReference.cache
+D:\Thinking Numbers backup\Current Code\ThinkingNumbers\TN.Test\obj\Debug\TN.Test.csproj.CoreCompileInputs.cache

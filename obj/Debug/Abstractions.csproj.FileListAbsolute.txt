@@ -1,0 +1,2 @@
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\obj\Debug\Abstractions.csproj.CoreCompileInputs.cache
+D:\Thinking Numbers Code backup\Current Code\ThinkingNumbers\obj\Debug\Abstractions.csprojAssemblyReference.cache
